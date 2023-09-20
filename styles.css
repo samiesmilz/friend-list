@@ -1,0 +1,52 @@
+body {
+  background-color: antiquewhite;
+  padding: 25px;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+button {
+  padding: 3px;
+  margin-left: 10px;
+}
+
+ol li {
+  margin: 5px;
+}
+
+/* ol li button {
+  width: 100px;
+  align-self: right;
+} */
+
+#first-name {
+  padding: 10px;
+  width: 200px;
+}
+
+#friend-legend {
+  border-color: darkcyan;
+  border-style: dotted;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  padding: 0 10px;
+  font-weight: 100;
+  font-size: 13px;
+}
+#friend-form {
+  border-radius: 5px;
+  border-style: dotted;
+  border-color: darkcyan;
+  width: 500px;
+  background-color: aquamarine;
+}
+
+#add-button {
+  padding: 10px;
+  width: 150px;
+}
+
+.blocked {
+  text-decoration: line-through;
+  color: gray;
+}
